@@ -38,7 +38,9 @@
 
 ### Option 1: Edge Add-ons (Recommended)
 
-> Coming soon — under review.
+> 🕐 Under review — expected to be available within a few days.
+> 
+> Once approved, you'll be able to install directly from the [Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/).
 
 ### Option 2: Chrome / Edge Manual Install
 
@@ -81,13 +83,19 @@ To update to a new version:
 
 ## Screenshots
 
-> Screenshots coming soon.
+> Coming soon — the extension is currently under Edge Add-ons review.
 
 ---
 
 ## Privacy
 
 Web Marker stores all data locally on your device. We collect **zero** user data. See our full [Privacy Policy](./PRIVACY.md).
+
+---
+
+## Feedback & Issues
+
+Found a bug or have a suggestion? [Open an issue](https://github.com/lemoabc/WebMarker-releases/issues) and let me know!
 
 ---
 

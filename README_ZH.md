@@ -38,7 +38,9 @@
 
 ### 方式一：Edge 扩展商店（推荐）
 
-> 即将上线 — 审核中。
+> 🕐 审核中 — 预计几天内上线。
+>
+> 审核通过后，你可以直接从 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/) 安装。
 
 ### 方式二：Chrome / Edge 手动安装
 
@@ -80,13 +82,19 @@
 
 ## 截图
 
-> 截图即将添加。
+> 即将添加 — 扩展正在 Edge 扩展商店审核中。
 
 ---
 
 ## 隐私说明
 
 Web Marker 所有数据都存储在你的本地设备上。我们 **不收集任何** 用户数据。查看完整的 [隐私政策](./PRIVACY.md)。
+
+---
+
+## 反馈与问题
+
+发现 Bug 或有建议？欢迎 [提交 Issue](https://github.com/lemoabc/WebMarker-releases/issues)！
 
 ---
 
