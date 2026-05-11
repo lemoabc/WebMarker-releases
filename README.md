@@ -9,6 +9,14 @@
   Your annotations persist across sessions — all stored locally, no account needed.
 </p>
 
+<p align="center">
+  <a href="#installation">Install</a> •
+  <a href="#features">Features</a> •
+  <a href="#how-to-use">Usage</a> •
+  <a href="#privacy">Privacy</a> •
+  <a href="./README_ZH.md">中文说明</a>
+</p>
+
 ---
 
 ## Features
@@ -41,7 +49,7 @@
    - **Chrome**: `chrome://extensions/`
    - **Edge**: `edge://extensions/`
 5. Enable **"Developer mode"** (toggle in the top-right corner)
-6. Click **"Load unpacked"** (or "加载已解压的扩展程序")
+6. Click **"Load unpacked"**
 7. Select the unzipped folder
 8. Done! You'll see the Web Marker icon in your toolbar.
 
