@@ -9,3 +9,6 @@ Thumbs.db
 
 # Node (just in case)
 node_modules/
+
+# Release zips (distributed via GitHub Releases, not in repo)
+*.zip
