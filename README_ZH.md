@@ -38,9 +38,9 @@
 
 ### 方式一：Edge 扩展商店（推荐）
 
-> 🕐 审核中 — 预计几天内上线。
->
-> 审核通过后，你可以直接从 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/) 安装。
+[![Edge 扩展商店](https://img.shields.io/badge/Edge%20%E6%89%A9%E5%B1%95%E5%95%86%E5%BA%97-%E7%AB%8B%E5%8D%B3%E5%AE%89%E8%A3%85-0078D7?logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/jjopjgjjgiodkebohhkaohflmelahpnd)
+
+从 [Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/jjopjgjjgiodkebohhkaohflmelahpnd) 一键安装，自动更新。
 
 ### 方式二：Chrome / Edge 手动安装
 
@@ -82,7 +82,7 @@
 
 ## 截图
 
-> 即将添加 — 扩展正在 Edge 扩展商店审核中。
+> 截图即将添加。
 
 ---
 

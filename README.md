@@ -38,9 +38,9 @@
 
 ### Option 1: Edge Add-ons (Recommended)
 
-> 🕐 Under review — expected to be available within a few days.
-> 
-> Once approved, you'll be able to install directly from the [Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/).
+[![Edge Add-ons](https://img.shields.io/badge/Edge%20Add--ons-Install%20Now-0078D7?logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/jjopjgjjgiodkebohhkaohflmelahpnd)
+
+Install directly from the [Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/jjopjgjjgiodkebohhkaohflmelahpnd) — one click, auto-updates included.
 
 ### Option 2: Chrome / Edge Manual Install
 
@@ -83,7 +83,7 @@ To update to a new version:
 
 ## Screenshots
 
-> Coming soon — the extension is currently under Edge Add-ons review.
+> Screenshots coming soon.
 
 ---
 
