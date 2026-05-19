@@ -83,7 +83,13 @@ To update to a new version:
 
 ## Screenshots
 
-> Screenshots coming soon.
+**Highlight & Annotate** — Multiple colors, underline, strikethrough, with a floating toolbar for quick access.
+
+![Annotations and FAB toolbar](./assets/screenshot-annotations.png)
+
+**Popup Panel** — View statistics, export/import annotations, switch language, and check shortcuts.
+
+![Popup panel](./assets/screenshot-popup.png)
 
 ---
 
